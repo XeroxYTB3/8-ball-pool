@@ -1,0 +1,7 @@
+node_modules
+dist
+.agentsroom
+.claude
+.mcp.json
+*.local
+.DS_Store
