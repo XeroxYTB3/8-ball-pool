@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "start": { "coins": 0, "xp": 0 },
+  "reset": { "coins": true, "xp": false },
+  "admin": { "infiniteCoins": true, "infiniteXp": true }
+}
